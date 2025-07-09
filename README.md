@@ -26,8 +26,9 @@ The dataset contains 15,000 job postings with the following fields:
 4. Which roles commonly require higher degrees (Bachelor’s, Master’s, PhD)?
 5. Do remote jobs tend to offer higher or lower salaries?
 6. What is the distribution of remote, hybrid, and in-person work models?
-7. Does job description length relate to salary, benefits, or seniority?
-8. Which positions tend to have postings open longer?
+7. Which skills are most frequently listed in high-paying jobs? 
+8. Does job description length relate to salary, benefits, or seniority?
+9. Which positions tend to have postings open longer?
 
 
 ## Visualizations & Insights
