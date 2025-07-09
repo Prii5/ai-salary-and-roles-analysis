@@ -30,7 +30,7 @@ The dataset contains 15,000 job postings with the following fields:
 8. Which positions tend to have postings open longer?
 
 
-## 📊 Visualizations & Insights
+## Visualizations & Insights
 
 - **Horizontal bar charts** of median salaries by job title
 - **Grouped bar plots** showing industry vs. experience level impact on pay
@@ -41,7 +41,7 @@ The dataset contains 15,000 job postings with the following fields:
 - **Duration analysis** of how long job postings remain open across roles and seniority
 
 
-##  Key Findings
+## Key Findings
 
 - Senior and research-focused roles tend to pay more.
 - Education level is important, but not absolute — all levels (Associate to PhD) are represented across roles.
